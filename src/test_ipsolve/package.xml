@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>test_ipsolve</name>
+    <version>0.0.1</version>
+    <description>The test_ipsolve package</description>
+    <author email="luyaomin9612@163.com">Haijie</author>
+    <maintainer email="todo@todo.com">todo</maintainer>
+    <license>BSD</license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>roscpp</depend>
+    <depend>roslib</depend>
+    <depend>rospy</depend>
+</package>
